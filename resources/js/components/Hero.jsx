@@ -35,9 +35,8 @@ function Hero() {
                                     </div>
                                     <p className="mt-3 p-4 lg:p-0 text-[18px]">I'm working as a web developer since 2019. Gethering experince with live projects. Also performing with new technologies.</p>
                                     <div className="social_links flex gap-2 mt-4 pl-4 pb-4">
-                                        <a className="btn btn-md hover:bg-[#000] hover:text-[#fff] bg-[#aaa]">Facebok</a>
-                                        <a className="btn btn-md hover:bg-[#000] hover:text-[#fff] bg-[#45a]">Facebok</a>
-                                        <a className="btn btn-md hover:bg-[#000] hover:text-[#fff] bg-[#46a]">Facebok</a>
+                                        <a href="https://www.facebook.com/mdakibrahman121" className="btn btn-md hover:bg-[#000] hover:text-[#fff] bg-[#385898]">Facebok</a>
+
                                     </div>
                                 </div>
                                 <div className="w-[100%] lg:w-[45%] header_profile_content flex flex-col items-center justify-center lg:m-4">
